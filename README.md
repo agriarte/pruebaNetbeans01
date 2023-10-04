@@ -1,0 +1,1 @@
+Una ejemplo simple para mostrar un archivo pom.xml de Maven que permite generar un jar.
